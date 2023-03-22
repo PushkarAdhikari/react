@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "- NAMASTE REACT COURSE -",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PushkarAdhikari/react.git"
+  },
+  "author": "adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PushkarAdhikari/react/issues"
+  },
+  "homepage": "https://github.com/PushkarAdhikari/react#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
