@@ -16,7 +16,7 @@
     "url": "https://github.com/PushkarAdhikari/react/issues"
   },
   "homepage": "https://github.com/PushkarAdhikari/react#readme",
-  "dependencies": {
+  "devDependencies": {
     "parcel": "^2.8.3"
   }
 }
