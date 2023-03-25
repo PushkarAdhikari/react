@@ -25,7 +25,7 @@ const parent = React.createElement(
             { id: 'child1', className: 'class-child1' },
             [
                 'child1',
-                React.createElement('h1', { id: 'child-heading1', className: 'heading1' }, 'Hello world first child!'),
+                React.createElement('h1', { id: 'child-heading1', className: 'heading1' }, '>> Hello world first child!'),
                 React.createElement('h1', { id: 'child-heading2', className: 'heading1' }, 'Hello world second child!')
             ]
         ),
